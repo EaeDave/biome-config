@@ -36,6 +36,10 @@
       "quoteProperties": "asNeeded",
       "arrowParentheses": "always",
       "operatorLinebreak": "after"
+    },
+    "css": {
+    "parser": {
+      "tailwindDirectives": true
     }
   },
   "assist": {
